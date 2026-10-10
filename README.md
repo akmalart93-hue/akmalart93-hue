@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Hi%20Everyone,%20I'm%20Akmal%20Ikhsan&fontSize=36&fontColor=c0caf5&fontAlignY=38&desc=Web%20Developer%20%7C%20Learning%20Flutter&descSize=16&descColor=a9b1d6&descAlignY=58" alt="Header" />
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/akmalart93-hue">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=480&lines=Hi+Everyone%2C+I'm+Akmal+Ikhsan+%F0%9F%91%8B;Web+Developer;Currently+exploring+Flutter" alt="Typing SVG" />
 </a>
 
@@ -56,12 +56,12 @@ Saat ini saya sedang mendalami **pengembangan aplikasi mobile dengan Flutter**. 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akmalart93-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalart93-hue&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=akmalart93-hue&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
 
 </div>
 
